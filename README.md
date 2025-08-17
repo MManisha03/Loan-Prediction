@@ -93,16 +93,6 @@ You can explore the project in Google Colab:
 🔹 Run Training Script
 python train_model.py
 
-📖 References
-
-Jainil Shah – Fraud Detection using Decision Tree (Kaggle Notebook)
-
-Ravelin Insights on Fraud Detection:
-
-Online Payment Fraud
-
-Machine Learning for Fraud Detection
-
 # ✅ Conclusion
 
 Machine Learning models, especially Decision Trees, are highly effective in detecting fraud transactions.
