@@ -73,6 +73,7 @@ Example Prediction:
 
 # Features = [type, amount, oldbalanceOrg, newbalanceOrg]
 features = np.array([[4, 9000.60, 9000.60, 0.0]])
+
 print(model.predict(features))
 
 # Output: ['Fraud']
