@@ -80,7 +80,6 @@ print(model.predict(features))
 
 🚀 How to Run
 🔹 Clone Repository
-git clone https://github.com/your-username/online-fraud-detection.git
 cd online-fraud-detection
 
 🔹 Install Dependencies
